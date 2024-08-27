@@ -1,0 +1,9 @@
+{
+  {
+    "ConnectionStrings": {
+      "KisilerDB": "Server=localhost;Database=KisilerDB;Trusted_Connection=True;"
+    }
+  }
+
+
+}
